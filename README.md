@@ -1,2 +1,2 @@
 # TapTapBubble
-Ios game to demenstrate programming skills
+Ios game to demonstrate programming skills
